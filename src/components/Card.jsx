@@ -7,7 +7,7 @@ let {
    nameStyle, 
    data, 
    imageStyle
-} = styles;
+} = styles; 
 
 //styles
 
